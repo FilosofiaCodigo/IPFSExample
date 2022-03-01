@@ -1,0 +1,28 @@
+[
+	{
+		"inputs": [],
+		"name": "image_ipfs_hash",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "ipfs_path",
+				"type": "string"
+			}
+		],
+		"name": "setImage",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
